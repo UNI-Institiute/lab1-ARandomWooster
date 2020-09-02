@@ -19,7 +19,6 @@ class TestsLab1(unittest.TestCase):
       self.assertEqual(4 * 2 + 27 // 3 + 4, 21)
       self.assertEqual(4 * (2 + 27) // 3 + 4, 42)
       # Add code here (like the line above) for the additional test cases.
-
 # Run the unit tests.
 if __name__ == '__main__':
    unittest.main()
